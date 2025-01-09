@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZZhL1CGNCnHeXvhdW5OgYWpmHcIUAm7/MgI+uv71KxE=",
+  "Source": "APICall",
+  "BasePath": "_content/APICall",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
